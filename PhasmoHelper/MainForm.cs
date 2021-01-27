@@ -59,7 +59,7 @@ namespace PhasmoHelper
             }
 
             hotkey_enable = Convert.ToBoolean(settings.GetPrivateString("params", "hotkey_enable"));
-            if (hotkey_enable) HotkeyStatusLabel1.Text = "Горячие клавиши включены, для изменения нажмите Shift+F7";
+            if (hotkey_enable) HotkeyStatusLabel1.Text = "Горячие клавиши включены, для изменения нажмите";
             else HotkeyStatusLabel1.Text = "Горячие клавиши выключены, для изменения нажмите";
 
             gkh.KeyUp += new KeyEventHandler(gkh_KeyUp);
