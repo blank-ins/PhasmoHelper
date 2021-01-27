@@ -1,0 +1,10 @@
+C:\Users\leonid\source\repos\PhasmoHelper\PhasmoHelper\bin\Debug\PhasmoHelper.exe.config
+C:\Users\leonid\source\repos\PhasmoHelper\PhasmoHelper\bin\Debug\PhasmoHelper.exe
+C:\Users\leonid\source\repos\PhasmoHelper\PhasmoHelper\bin\Debug\PhasmoHelper.pdb
+C:\Users\leonid\source\repos\PhasmoHelper\PhasmoHelper\obj\Debug\PhasmoHelper.csprojAssemblyReference.cache
+C:\Users\leonid\source\repos\PhasmoHelper\PhasmoHelper\obj\Debug\PhasmoHelper.Properties.Resources.resources
+C:\Users\leonid\source\repos\PhasmoHelper\PhasmoHelper\obj\Debug\PhasmoHelper.csproj.GenerateResource.cache
+C:\Users\leonid\source\repos\PhasmoHelper\PhasmoHelper\obj\Debug\PhasmoHelper.csproj.CoreCompileInputs.cache
+C:\Users\leonid\source\repos\PhasmoHelper\PhasmoHelper\obj\Debug\PhasmoHelper.exe
+C:\Users\leonid\source\repos\PhasmoHelper\PhasmoHelper\obj\Debug\PhasmoHelper.pdb
+C:\Users\leonid\source\repos\PhasmoHelper\PhasmoHelper\obj\Debug\PhasmoHelper.MainForm.resources
