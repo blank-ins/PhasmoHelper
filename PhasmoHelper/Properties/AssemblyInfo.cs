@@ -8,9 +8,9 @@ using System.Runtime.InteropServices;
 [assembly: AssemblyTitle("PhasmoHelper")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("sq1blank")]
 [assembly: AssemblyProduct("PhasmoHelper")]
-[assembly: AssemblyCopyright("Copyright ©  2021")]
+[assembly: AssemblyCopyright("Copyright ©  2021, sq1blank")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
