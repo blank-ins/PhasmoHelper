@@ -1,5 +1,6 @@
 **PhasmoHelper** - помощник для *[Phasmophobia](https://store.steampowered.com/app/739630/Phasmophobia/)* написанный на C# WinForms
-### [Download](https://github.com/blank-ins/PhasmoHelper/raw/main/PhasmoHelper.exe) `v1.3.1.11`
+### [Download](https://github.com/blank-ins/PhasmoHelper/raw/main/PhasmoHelper.exe) `v1.3.1.12`
+### Поддержка данной версии прекращена! Программа перерабатывается на новый фреймворк, и доступна в другом [репозитории](https://github.com/blank-ins/PHelperWPF)
 
 ## Интерфейс
 * Окно программы всегда находиться по верх других окон, но её можно свернуть в панель задач
